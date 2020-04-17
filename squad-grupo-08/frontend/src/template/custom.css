@@ -1,0 +1,30 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("https://www.ecopetit.cat/wpic/mpic/0-6092_4k-background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.markedAsDone {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tableActions {
+    width: 105px;
+}
+
+.todoForm {
+    padding-bottom: 60px;
+}
